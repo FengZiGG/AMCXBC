@@ -1,0 +1,3 @@
+/home/ztb5129/CLionProjects/AMCX_BC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ztb5129/CLionProjects/AMCX_BC/cmake-build-debug/CMakeFiles/AMCX_BC.dir
+/home/ztb5129/CLionProjects/AMCX_BC/cmake-build-debug/CMakeFiles/edit_cache.dir
